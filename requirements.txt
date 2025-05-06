@@ -1,0 +1,5 @@
+modal
+agno
+python-dotenv
+torch
+requests
